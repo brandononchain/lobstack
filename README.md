@@ -1,2 +1,2 @@
-# lobsta
-AI Ops
+# Lobstack
+AI Business Ops Protocol
